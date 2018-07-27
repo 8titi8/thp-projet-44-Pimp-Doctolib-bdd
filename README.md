@@ -1,6 +1,6 @@
 <h1>The Hacking Project - Semaine 4 - Jeudi</h1>
 
-<h2>Projet : Pimp Doctolib/h2>
+<h2>Projet : Pimp Doctolib</h2>
 
 <p>Edité par 
 	<ul>
